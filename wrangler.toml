@@ -1,3 +1,0 @@
-name = "apply-to-remove-rest"
-main = "index.js"  # <--- Change this to match your new filename
-compatibility_date = "2024-04-01"
